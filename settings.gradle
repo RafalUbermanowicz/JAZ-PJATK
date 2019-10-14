@@ -1,0 +1,4 @@
+rootProject.name = 'pl.edu.pjwstk.edu.pl'
+
+include 'app'
+
